@@ -37,9 +37,3 @@ body {
 .navbar-dark {
 	background-color: #512DA8;	
 }
-
-.container-fluid {
-	padding: 0 auto;
-	margin: 0 auto;
-	width: 100%;
-}
