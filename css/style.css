@@ -37,8 +37,3 @@ body {
 .navbar-dark {
 	background-color: #512DA8;	
 }
-
-input::focus {
-	outline:none;
-	border: none;
-}
